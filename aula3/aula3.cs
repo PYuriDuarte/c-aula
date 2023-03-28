@@ -20,6 +20,6 @@ class Aula3{
     var aux = "teste";
 
     Console.WriteLine("valor de num3 é:" + num3 + "!");
-    Console.WriteLine("valor de num1 é {num1}, de num2 é {num2} e a multiplicação deles é {num3}.");
+    //Console.WriteLine($"valor de num1 é {num1}, de num2 é {num2} e a multiplicação deles é {num3}.");
   }
 }
